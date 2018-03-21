@@ -34,8 +34,9 @@
 1、两次扫描文本，影响性能
 2、需要保存权重信息到文本
 
----
+The project's URL https://github.com/SUSTYuxiao/Static-Huffman
 
+---
 
  2018.03.19 By 张鹏霄 zpx736312737@126.com | Others in Blog https://sustyuxiao.github.io
 
