@@ -31,8 +31,8 @@
 - 注释丰富
 
 ##### 静态哈夫曼缺点
-1、两次扫描文本，影响性能
-2、需要保存权重信息到文本
+- 两次扫描文本，影响性能
+- 需要保存权重信息到文本
 
 The project's URL https://github.com/SUSTYuxiao/Static-Huffman
 
